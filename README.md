@@ -12,6 +12,6 @@ Ultimately, this company would like to understand the diversity of its workforce
 ## Data Set
 - The dataset is available for download from Kaggle [here](https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attrition-data/code)
 
-- ## Visualizations
-- - Visualizations of findings available at [Tableau](https://public.tableau.com/views/UnderstandingtheImpactofDiversityonTenure/DiversityandTenure?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+## Visualizations
+- Visualizations of findings available at [Tableau](https://public.tableau.com/views/UnderstandingtheImpactofDiversityonTenure/DiversityandTenure?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
   - Note: This storyboard doesn’t contain every step of the analysis — only those relevant to the final results
